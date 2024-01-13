@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Certificate Of Completion Data Analyst",
+        "by": "Refocus",
+        "image": "./certification/da-cer.png",
+        "category":"Data Analyst",
+        "links": {
+            "credentials": ""
+        }
+    }, {
+        "name": "United States national highway research",
+        "by": "Refocus",
+        "image": "./certification/da-decs.png",
+        "category":"Data Analyst",
+        "links": {
+            "credentials": ""
+        }
+    }
+]
