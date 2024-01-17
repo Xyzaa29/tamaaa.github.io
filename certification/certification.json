@@ -15,5 +15,12 @@
         "links": {
             "credentials": ""
         }
-    }
+    }, {
+        "name": "Marketing Introduction",
+        "by": "MySkill",
+        "image": "./certification/marketing-introduction.png",
+        "category":"Digital Marketing",
+        "links": {
+            "credentials": ""
+        }
 ]
